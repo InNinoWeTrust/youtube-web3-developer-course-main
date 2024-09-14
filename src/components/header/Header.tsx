@@ -1,5 +1,5 @@
 import Image from "next/image";
-import thirdwebIcon from "@public/thirdweb.svg";
+import thirdwebIcon from "@public/brownwatersproductions(Logo Only.)svg";
 import { title } from "process";
 
 type HeaderProps = {
